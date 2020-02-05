@@ -1,0 +1,20 @@
+{
+  "name": "testing-app",
+  "version": "1.0.0",
+  "description": "My impressive Nuxt.js project",
+  "author": "Лесхан",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/auth": "^4.8.5",
+    "@nuxtjs/axios": "^5.9.5",
+    "nuxt": "^2.0.0",
+    "vuex": "^3.1.2"
+  },
+  "devDependencies": {}
+}
